@@ -1,4 +1,4 @@
-package name.christianson.mike;
+package name.christianson.mike.model;
 
 public class Time {
     private final String time;

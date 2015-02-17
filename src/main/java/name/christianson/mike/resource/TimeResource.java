@@ -1,4 +1,4 @@
-package name.christianson.mike;
+package name.christianson.mike.resource;
 
 import com.google.common.base.Optional;
 
@@ -7,6 +7,9 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
+
+import name.christianson.mike.model.Time;
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
