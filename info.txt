@@ -1,2 +1,0 @@
-Example request
- - http://localhost:8080/time
